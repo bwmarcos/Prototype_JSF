@@ -76,3 +76,4 @@ git commit -m ""
 git remote add origin git@github.com:bwmarcos/Prototype_JSF.git
 git push -u origin master
 ```
+![](https://cursos.alura.com.br/forum/topico-criar-projeto-jsf-com-maven-26800)
