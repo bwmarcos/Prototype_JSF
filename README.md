@@ -64,7 +64,7 @@
  ```
  mvn clean 
  mvn package
- mvn jetty:run
+ mvn clean jetty:run
  ```
  ### Executar a aplicação acesse o Link
 * [localhost:8080](http://localhost:8080)
