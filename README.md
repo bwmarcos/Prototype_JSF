@@ -68,3 +68,11 @@
  ```
  ### Executar a aplicação acesse o Link
 * [localhost:8080](http://localhost:8080)
+
+### Commit final
+```
+git clone git@github.com:bwmarcos/Prototype_JSF.git
+git commit -m ""
+git remote add origin git@github.com:bwmarcos/Prototype_JSF.git
+git push -u origin master
+```
