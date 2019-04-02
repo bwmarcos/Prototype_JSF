@@ -11,7 +11,7 @@
   - Java 1.8
   - JavaServer Faces 2.3
 ### Extrutura dos arquivos
-[![](https://github.com/bwmarcos/Prototype_JSF/blob/master/print.png)]
+![](https://github.com/bwmarcos/Prototype_JSF/blob/master/print.png)
 
 ### Trocar o web.xml para 3.1 conforme abaixo:
 ```
